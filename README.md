@@ -19,5 +19,14 @@
 * It is the simplest type of neural network and consists of single neuron that takes input as features and predicts the output (class label).
 * The perceptron model works on the principal of adding weights to each of the features. The perceptron model is represented as below.
 
+![alt text](https://github.com/rasunag27/Breast_cancer_prediction/blob/main/perceptron.JPG?raw=true)
 
+## Metrics
 
+* Accuracy metrics is used in evaluating the result. MPNeuron model shows an accuracy of 78.9% while Perceptron model shows an accuracy of 92%.
+
+## Other
+
+* The code is written in python with OOPS concept.
+* The animation of weights for the perceptron model is shown in video.
+* The code is written to understand the basics of neural network which gives the path for deep learning.
