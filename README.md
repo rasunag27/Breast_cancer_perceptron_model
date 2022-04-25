@@ -1,4 +1,5 @@
-# Breast_cancer_perceptron_model
+# Breast cancer prediction using simple MPNeuron and Perceptron model
+
 ## Dataset
 * The dataset is loaded from sklearn load dataset library which loads the dataset from UCI Breast cancer wisconsin (diagnostic) dataset. The dataset link is https://goo.gl/U2Uwz2.
 * The dataset contains two classes (1 and 0), 1 being malignant and 0 being benign. Benign tumors are the one in which the cells are not cancerous and wont spread. On the other hand, malignant tumors are such that the cells are cancerous and can spread to other tissues and organs.
