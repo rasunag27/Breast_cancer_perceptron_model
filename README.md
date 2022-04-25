@@ -9,12 +9,15 @@
 
 * The input data takes binary input and results to binary output. The breast cancer input data is not binary and hence it is binarised before feeding it into the model.
 * The features are cut into two bins with thresold of 1000. (1 if value>1000, 0 otherwise).
-* The MPneuron model consists of a function with single parameter. The MP neuron model is represented as below with corresponding mathematical equations.
+* The MPneuron model consists of a function with single parameter. The MP neuron model is represented as below.
 
+![alt text](https://github.com/rasunag27/Breast_cancer_prediction/blob/main/MPneuron.JPG?raw=true)
 
 ## Perceptron model
 
 * The perceptron model is a two-class binary classification machine learning algorithm. 
 * It is the simplest type of neural network and consists of single neuron that takes input as features and predicts the output (class label).
-* The perceptron model works on the principal of adding weights to each of the features.
+* The perceptron model works on the principal of adding weights to each of the features. The perceptron model is represented as below.
+
+
 
